@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "id": "2aa0",
+      "login": "user",
+      "password": "passwd"
+    }
+  ],
+  "todos": [
+    {
+      "id": "1",
+      "task": "Go hiking",
+      "completed": "true"
+    },
+    {
+      "id": "2",
+      "task": "eat",
+      "completed": "true"
+    }
+  ]
+}
